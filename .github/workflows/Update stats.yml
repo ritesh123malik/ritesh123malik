@@ -1,0 +1,35 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Refresh Cached Stats
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Ping GitHub Stats API (cache bust)
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=ritesh123malik&count_private=true" > /dev/null
+          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=ritesh123malik" > /dev/null
+          echo "Stats APIs pinged at $(date)"
+
+      - name: Touch README to trigger re-render
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          touch README.md
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: refresh profile stats [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
