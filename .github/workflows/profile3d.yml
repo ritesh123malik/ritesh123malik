@@ -22,14 +22,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ritesh123malik
-          MAX_REPOS: 10
-          SETTING_JSON: |
-            {
-              "githubUserName": "ritesh123malik",
-              "type": "normal",
-              "animation": true,
-              "outputFile": "profile-3d-contrib/profile-night-rainbow.svg"
-            }
 
       - name: Commit & Push 3D Graph
         uses: stefanzweifel/git-auto-commit-action@v5
