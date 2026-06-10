@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Ritesh%20Malik&fontAlign=50&fontAlignY=40&fontSize=75&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ritesh%20Malik&fontAlign=50&fontAlignY=40&fontSize=80&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=1000&lines=Competitive+Programmer;Hacktoberfest+Contributor;GSSoC+Contributor;Open+Source+Developer;Full+Stack+Engineer;Aspiring+Quant+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=1000&lines=Competitive+Programmer;Hacktoberfest+Contributor;GSSoC+Contributor;Open+Source+Developer;Full+Stack+Engineer;Quant+Finance+Enthusiast"/>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=ritesh123malik&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
@@ -12,7 +12,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
 ```yaml
 name: Ritesh Malik
@@ -20,40 +20,39 @@ name: Ritesh Malik
 education:
   college: LNMIIT Jaipur
   degree: B.Tech Computer Science
-  graduation: 2029
+  graduation_year: 2029
 
 interests:
   - Competitive Programming
-  - Open Source
-  - Blockchain Development
+  - Open Source Development
+  - Blockchain Technology
   - Quantitative Finance
   - Machine Learning
 
 currently_learning:
   - Advanced Data Structures
   - Dynamic Programming
-  - Blockchain Development
   - System Design
-  - Open Source Development
+  - Blockchain Development
+  - Open Source Engineering
 
 achievements:
   - Hacktoberfest Contributor
   - GSSoC Contributor
-  - 2nd Runner Up @ Inflection Hackathon
+  - 2nd Runner-Up @ Inflection Hackathon
 
-goal:
-  - Become Expert on Codeforces
-  - Crack GSoC
-  - Participate in ETHGlobal
-  - Build High Impact Open Source Projects
-  - Prepare for Quant/HFT Roles
+mission:
+  - Build impactful software
+  - Contribute to open source
+  - Grow as a competitive programmer
+  - Explore blockchain and quant technologies
 ```
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/ritesh123malik">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -72,10 +71,10 @@ goal:
 </a>
 
 <a href="mailto:riteshmalik21092005@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -91,41 +90,53 @@ goal:
 
 # 🚀 Current Focus
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-### Competitive Programming
+| Competitive Programming | Development            |
+| ----------------------- | ---------------------- |
+| Codeforces              | React                  |
+| LeetCode                | Blockchain             |
+| Dynamic Programming     | Open Source            |
+| Graph Algorithms        | Full Stack Development |
+| Problem Solving         | Machine Learning       |
 
-* Codeforces
-* LeetCode
-* Dynamic Programming
-* Graph Algorithms
-* Problem Solving
-
-</td>
-
-<td>
-
-### Development
-
-* React
-* Blockchain
-* Open Source
-* Full Stack Development
-* Machine Learning
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# 🏆 Hackathon Achievement
+# 🌱 Currently Working On
 
-### 🥈 2nd Runner-Up — Inflection Hackathon
+* Solving algorithmic problems regularly
+* Strengthening Dynamic Programming concepts
+* Exploring Blockchain Development
+* Contributing to Open Source
+* Building Full Stack Applications
+* Learning System Design fundamentals
 
-Built a Lost & Found Portal for LNMIIT that streamlined the reporting, tracking, and recovery of misplaced items across campus. The platform enabled students to post found or lost items, improving visibility and significantly reducing recovery time while creating a centralized system for campus item management.
+---
+
+# 🥈 Inflection Hackathon
+
+### 2nd Runner-Up
+
+📌 **Project:** LNMIIT Lost & Found Portal
+
+⚡ Developed a centralized platform that allows students to report, track, and recover lost items efficiently.
+
+🚀 Improved visibility of lost-and-found reports across campus while streamlining the recovery process through a simple and accessible interface.
+
+---
+
+# 📜 Journey
+
+```text
+2025 → Started Competitive Programming
+2025 → Hacktoberfest Contributor
+2025 → GSSoC Contributor
+2026 → 2nd Runner-Up @ Inflection Hackathon
+2026 → Exploring Blockchain & Open Source
+2026 → Building Full Stack Applications
+```
 
 ---
 
@@ -161,39 +172,76 @@ Built a Lost & Found Portal for LNMIIT that streamlined the reporting, tracking,
 
 ---
 
-# 💻 Competitive Programming
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ritesh123malik&theme=tokyonight&no-frame=true&row=1"/>
+
+</div>
+
+---
+
+# ⚔️ Competitive Programming
 
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/RITESHMALIK21?theme=dark&font=Karma"/>
 
+<br><br>
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=22_11"/>
+
 </div>
 
-<br>
+---
 
-```text
-Codeforces Rating : 635
-Target Rating     : Expert (1600+)
-LeetCode Solved   : 118+
+## 📌 Competitive Programming Snapshot
+
+```yaml
+Codeforces:
+  Handle: 22_11
+  Current Rating: 635
+
+LeetCode:
+  Username: RITESHMALIK21
+  Problems Solved: 118+
 ```
 
 ---
 
-# 🎯 Roadmap
+# 🎯 Goals
+
+```yaml
+Competitive Programming:
+  - Improve problem solving skills
+  - Strengthen algorithmic thinking
+
+Open Source:
+  - Contribute consistently
+  - Collaborate on impactful projects
+
+Development:
+  - Build blockchain applications
+  - Develop scalable full stack systems
+
+Career:
+  - Explore quant finance
+  - Grow as a software engineer
+```
+
+---
+
+# 🚀 Featured Work
 
 ```text
-[✓] Learn C++
-[✓] Learn Git & GitHub
-[✓] Start Competitive Programming
-[✓] Participate in Hackathons
-[✓] Contribute to Open Source
+Currently focusing on:
+• Competitive Programming
+• Open Source Contributions
+• Blockchain Development
+• Full Stack Engineering
 
-[ ] Reach Specialist on Codeforces
-[ ] Reach Expert on Codeforces
-[ ] Crack GSoC
-[ ] Participate in ETHGlobal
-[ ] Build Blockchain Projects
-[ ] Prepare for Quant Roles
+Project showcase coming soon...
 ```
 
 ---
@@ -201,6 +249,22 @@ LeetCode Solved   : 118+
 # 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/ritesh123malik/ritesh123malik/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🌌 3D Contribution Graph
+
+![](https://raw.githubusercontent.com/ritesh123malik/ritesh123malik/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+# 💭 Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
@@ -215,14 +279,6 @@ while(alive)
     repeat();
 }
 ```
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
 
 ---
 
